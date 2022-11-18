@@ -10,11 +10,11 @@ Team Lead :  Aadharsh S M
 Team Members :
                   Bala Logesh M
                             
-                 Bathresh Bas B
+                  Bathresh Bas B
 
-                 Dinesh M
+                  Dinesh M
 
-                 Hari Haran K
+                  Hari Haran K
 
-                 Karthik M
+                  Karthik M
 
